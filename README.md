@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tsion
 - 👀 I’m interested in Web Development, Web Design, and Game Development
 - 🌱 I’m currently learning Javascript and Java. I am also planning to learn Python
-- 💞️ I’m looking to collaborate on Web Development projects. I would also like to try and take part in Game Development projects.
+- 💞️ I’m looking to collaborate on Web Development projects. I would also like to take part in Game Development projects.
 - 📫 How to reach me: tsionh27@gmail.com | +48662067521
 
 <!---
